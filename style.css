@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+
+.heading 
+{
+    font-size: 22 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:pink;
+    font-weight: 100%;
+    width: 100%;
+    margin-top: 0;
+    color: crimson;
+}
+
+#footer
+{
+    position: fixed;
+    bottom: 3;
+    width: 100%;
+    line-height: 3;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color:crimson;
+}
+
+canvas
+{
+    border-radius: 20px;
+    border: 2px ;
+    box-shadow: 5px 5px 10px dodgerblue;
+}
